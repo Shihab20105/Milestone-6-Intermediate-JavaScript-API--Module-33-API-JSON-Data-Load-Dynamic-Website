@@ -17,7 +17,7 @@ An IP address is a unique address that identifies a device on the internet or a 
 66.220.149.25 - facebook
 72.21.211.176 - amazon
 173.0.84.3 - PayPal
-// =============================================
+// ============================================
 
 IPv4 =========>   vs =============> IPv6
 
@@ -163,5 +163,4 @@ Sophie ----> https://www.site.com -----> password: xyz123
 
 (With password encryption
 Hacker see: "hYcgU25eDu")
- 
 */
