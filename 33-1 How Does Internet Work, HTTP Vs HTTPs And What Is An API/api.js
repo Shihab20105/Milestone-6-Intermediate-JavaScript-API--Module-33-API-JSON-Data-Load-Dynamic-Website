@@ -164,9 +164,4 @@ Sophie ----> https://www.site.com -----> password: xyz123
 (With password encryption
 Hacker see: "hYcgU25eDu")
  
- 
- 
- 
-
- 
 */
